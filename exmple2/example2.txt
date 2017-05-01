@@ -1,0 +1,1 @@
+# train a Word2Vec skip-gram model over Text8 data.
